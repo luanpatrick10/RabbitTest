@@ -1,0 +1,84 @@
+# Ignorar arquivos de compilação e binários
+bin/
+obj/
+
+# Ignorar arquivos temporários
+.vscode/
+*.user
+*.suo
+*.cache
+
+# Ignorar arquivos de log e debug
+*.log
+*.log.*
+[Tt]est[Rr]esult*/
+[Ll]og/
+[Ll]ogs/
+
+# Ignorar arquivos de configuração específicos do usuário
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorar o diretório de saída da documentação
+docs/_site/
+
+# Ignorar arquivos de dependências e pacotes
+packages/
+*.nupkg
+*.paket
+*.dll
+*.exe
+*.json
+*.sqlite
+
+# Ignorar o diretório de publicação
+publish/
+
+# Ignorar arquivos de configuração do Visual Studio
+.vscode/
+.vscodeignore
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.usertasks
+*.userprefs
+
+# Ignorar arquivos de configuração do Rider
+.idea/
+*.sln.iml
+
+# Ignorar arquivos de configuração do Mono
+mono_crash.*
+
+# Ignorar arquivos de configuração do Windows
+Thumbs.db
+Desktop.ini
+
+# Ignorar arquivos de log do Windows
+*.log
+*.log.*
+*.old
+*.bak
+*.Cache
+
+# Ignorar arquivos de compilação do Windows
+[Tt]emp/
+[Ii]ntermediate/
+[Bb]uild/
+[Bb]in/
+[Ll]og/
+[Ll]ogs/
+[Ll]ocal [Ss]tate/
+
+# Ignorar arquivos de configuração específicos do usuário
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.usertasks
+*.userprefs
